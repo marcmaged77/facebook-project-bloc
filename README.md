@@ -34,5 +34,15 @@ null Safety
 
 
 ## HOME FEED
-<img width="1680" alt="HOMEFFED" src="https://user-images.githubusercontent.com/30737385/133775573-36f13136-69fe-4947-b545-82a71498ebe6.png">
+
+<img width="1643" alt="HOMEFFED" src="https://user-images.githubusercontent.com/30737385/133775781-4afa232c-e4b2-472f-b74e-dbcc27e04bf0.png">
+
+## CREATING POST AND STORE IT ON FIRESTORE
+
+
+
+
+https://user-images.githubusercontent.com/30737385/133776396-9c7b25e8-34e3-425d-8756-28945ad7b128.mp4
+
+
 
