@@ -31,3 +31,8 @@ null Safety
 
 
 <img width="324" alt="AUTH 2" src="https://user-images.githubusercontent.com/30737385/133774671-7aeb71a5-68dc-4f82-9f31-df16f6b1bd87.png">
+
+
+## HOME FEED
+<img width="1680" alt="HOMEFFED" src="https://user-images.githubusercontent.com/30737385/133775573-36f13136-69fe-4947-b545-82a71498ebe6.png">
+
