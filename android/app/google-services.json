@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "958281834084",
+    "project_id": "facebook-16b37",
+    "storage_bucket": "facebook-16b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958281834084:android:f377931ae8d45f9a748971",
+        "android_client_info": {
+          "package_name": "marcmaged.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958281834084-rca1ecb87m19dtgv9qrespir5sckbje4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn2yOkN3thAd1Nn3p0Cxal8WJggG4FEWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958281834084-rca1ecb87m19dtgv9qrespir5sckbje4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958281834084-5kc6ciig4knckd6f4mpgp0j1jv4gnh35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "marcmaged.facebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
